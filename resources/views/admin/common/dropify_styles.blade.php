@@ -1,1 +1,0 @@
-<link href="{{ asset('admin_assets/plugin/dropify/css/dropify.min.css') }}" rel="stylesheet">
